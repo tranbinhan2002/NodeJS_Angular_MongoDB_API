@@ -1,0 +1,23 @@
+.fa-user-graduate{
+  font-size: 2em;
+}
+.navbar-brand{
+  font-family: 'Times New Roman', Times, serif;
+}
+nav{  box-shadow: 1px 1px 10px rgba(0,0,0,0.3);}
+.schoolname{
+  font-weight: bold;
+  font-size: 1.5em;
+  color: blue;
+  animation: right 3s infinite;
+}
+
+@keyframes right{
+  0%{
+    transform: translateX(150px);
+  }
+  100%{
+    transform: translateX(350px);
+  }
+}
+

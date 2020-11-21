@@ -1,0 +1,18 @@
+footer{
+  padding-top: 50px;
+}
+.footer-information{
+  background-color: cadetblue;
+  color: white;
+  padding: 40px;
+}
+.name-school{
+  font-size: 1.5em;
+  font-weight: bold;
+}
+.ten{
+  text-align: center;
+  font-size: 2em;
+  padding: 50px;
+  font-weight: bold;
+}
